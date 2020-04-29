@@ -1,0 +1,8 @@
+<potions>
+    <potion name="Health Potion">
+        <description>adds 20 HP when used.</description>
+    </potion>
+    <potion name="Mana Potion">
+        <description>adds 20 MP when used.</description>
+    </potion>
+</potions>
